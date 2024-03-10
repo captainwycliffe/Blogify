@@ -11,7 +11,7 @@ This project demonstrates a basic blog application built with HTML, CSS, and Jav
 **Getting Started**
 
 1. **Prerequisites:** Ensure you have Node.js and npm (or yarn) installed on your system.
-2. **Clone the Repository:** Use `git clone https://github.com/your-username/blogify.git` to clone this repository.
+2. **Clone the Repository:** Use `git clone https://github.com/captainwycliffe/blogify.git` to clone this repository.
 3. **Install Dependencies:** Navigate to the project directory and run `npm install` (or `yarn install`) to install required dependencies, including JSON Server.
 
 **Running the Application:**
