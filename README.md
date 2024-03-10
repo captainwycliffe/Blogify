@@ -21,9 +21,11 @@ This project demonstrates a basic blog application built with HTML, CSS, and Jav
 
 **Understanding the Code:**
 
-- **index.html:** The main HTML file that structures the blog layout and includes JavaScript files.
+- **index.html:** This is the main entry point of your blog application. It likely serves as the landing page, displaying a list of blog posts and potentially providing navigation options.
+- **create.html:**  This file is likely dedicated to creating new blog posts. It might include a form with input fields for users to enter the title, content, and other relevant details of a new blog post.
+- **details.html:**  When a user clicks on a "read more..." link or a post title in the index page, this file is potentially responsible for displaying the complete details of a specific blog post. It might fetch additional information from the server (or rely on data embedded in the index page) to present the full content of the chosen post.
 - **styles.css:** Styles the application's visual elements.
-- **app.js:** Contains the core JavaScript logic for fetching posts, processing data, and potentially rendering them on the page (implementation details might vary).
+- **index.js:** Contains the core JavaScript logic for fetching posts, processing data, and potentially rendering them on the page (implementation details might vary).
 - **db.json:** A JSON file that simulates a backend database, storing blog post data (title, likes, body, etc.). You can modify this file to add or remove posts.
 
 **Customization:**
